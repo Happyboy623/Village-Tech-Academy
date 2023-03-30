@@ -54,6 +54,7 @@
 	padding-left: 20px;
 	padding-top: 20px;
 	text-align: center;
+	font-size: xx-large;
 }
 
 #banner-row a{
@@ -75,6 +76,12 @@
 
 #service h1{
 	padding-bottom: 70px;
+	font-size: 4rem;
+}
+
+#service h3{
+	color: #012b8d;
+	font-size: 3rem;
 }
 
 /* about */
@@ -86,6 +93,12 @@
 
 #about h1{
 	padding-bottom: 70px;
+	font-size: 4rem;
+}
+
+#about h3{
+	color: #012b8d;
+	font-size: 3rem;
 }
 
 #about-col ul{
@@ -107,15 +120,27 @@
 
 #product h1{
 	padding-bottom: 70px;
+	font-size: 4rem;
 }
 
-#product-col2 ul{
+#product h3{
+	color: #012b8d;
+	text-align: center;
+	font-size: 3rem;
+}
+
+#product p{
+	text-align: center;
+	font-size: xx-large;
+}
+
+/* #product-col2 ul{
 	padding-top: 90px;
 }
 
 #product-col2 ul li{
 	padding-top: 15px;
-}
+} */
 
 /* social */
 
